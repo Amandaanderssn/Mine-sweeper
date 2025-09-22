@@ -1,1 +1,1 @@
-# Inl-mningsuppgift-2-i-JS-3-Amanda-Andersson-FE23
+# Mine sweeper game
