@@ -11,7 +11,6 @@ export default class GameBoard extends React.Component {
         const boardSize = this.props.boardSize || 25;
         const numberOfMines = this.props.numberOfMines || 7;
         const theGameBoard = createBoard(boardSize, numberOfMines);
-        // console.log(theGameBoard)
 
         this.state = {
             theGameBoard,
