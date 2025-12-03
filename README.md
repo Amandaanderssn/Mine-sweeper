@@ -1,6 +1,6 @@
 ## Mine sweeper game
 
-Visit live game here: https://my-minesweeper-game.netlify.app
+Visit live game here: https://my-minesweeper-game.netlify.app 
 
 # Getting Started with Create React App
 
